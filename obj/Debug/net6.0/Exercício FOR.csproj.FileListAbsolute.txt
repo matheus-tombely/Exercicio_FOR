@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\bin\Debug\net6.0\Exercício FOR.exe
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\bin\Debug\net6.0\Exercício FOR.deps.json
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\bin\Debug\net6.0\Exercício FOR.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\bin\Debug\net6.0\Exercício FOR.dll
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\bin\Debug\net6.0\Exercício FOR.pdb
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\Exercício FOR.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\Exercício FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\Exercício FOR.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\Exercício FOR.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\Exercício FOR.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\Exercício FOR.dll
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\refint\Exercício FOR.dll
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\Exercício FOR.pdb
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\Exercício FOR.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\TI Liberato\MÓDULO II\Linguagem de programação C#\Exercício FOR\Exercício FOR\obj\Debug\net6.0\ref\Exercício FOR.dll
